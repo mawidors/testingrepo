@@ -2,3 +2,4 @@
 
 exclude:
  global:
+ - Deloitte.AAPS.Argus.Tests.Functional/**
